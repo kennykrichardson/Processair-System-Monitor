@@ -76,6 +76,12 @@ cargo run
 
 On the first run, Cargo downloads and compiles the required dependencies. Subsequent runs reuse the build cache.
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/processair-dashboard.png)
+
 ## 🎮 Controls
 
 | Key | Action |
