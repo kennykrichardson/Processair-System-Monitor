@@ -4,6 +4,8 @@
 
 This is an intentionally modular learning project. Its system collector, metric models, application state, and terminal interface are separated to keep the codebase maintainable as new capabilities are introduced.
 
+🌐 **[Explore my Complete Portfolio](https://www.kennykrichardson.com)**
+
 ## ✨ Features
 
 ### 📊 System Monitoring
